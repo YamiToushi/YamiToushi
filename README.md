@@ -1,7 +1,4 @@
 
-<a href="https://github.com/YamiToushi" target="_blank">
-<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=YamiToushi&count_private=true&theme=radical" />
-</a>
 
 <h1>Hi 👋, I'm Yami</h1>
 
